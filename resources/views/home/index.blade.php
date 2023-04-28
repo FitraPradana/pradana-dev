@@ -45,7 +45,7 @@
     <header id="header" class="fixed-top ">
         <div class="container d-flex align-items-center">
 
-            <h1 class="logo me-auto"><a href="index.html">Pradana Dev</a></h1>
+            <h1 class="logo me-auto"><a href="#">Pradana Dev</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -53,6 +53,7 @@
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                    <li><a class="nav-link scrollto" href="#cv">Curiculum Vitae</a></li>
                     <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
@@ -232,12 +233,21 @@
         </section><!-- End Team Section -->
 
         <!-- ======= CV Section ======= -->
-        <section id="skills" class="skills">
+        <section id="cv" class="cv">
             <div class="container" data-aos="fade-up">
+
+                <div class="section-title">
+                    <h2>Curiculum Vitae</h2>
+
+                </div>
 
                 <div class="row">
                     <div class="col-lg-12 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                        <img src="{{ asset('/') }}source_Arsha/assets/img/cv.jpg" class="img-fluid"
+                        <img src="{{ asset('/') }}source_Arsha/assets/img/cv1.jpg" class="img-fluid"
+                            alt=""><br><br><br>
+                    </div>
+                    <div class="col-lg-12 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+                        <img src="{{ asset('/') }}source_Arsha/assets/img/cv2.jpg" class="img-fluid"
                             alt="">
                     </div>
                     {{-- <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
@@ -317,14 +327,14 @@
                     <!-- APP -->
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-img"><img
-                                src="{{ asset('/') }}source_Arsha/assets/img/portfolio/portfolio-1.jpg"
+                                src="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Beranda.png"
                                 class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
-                            <h4>App 1</h4>
-                            <p>App</p>
-                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/portfolio-1.jpg"
+                            <h4>Dashboard</h4>
+                            <p>Sistem Overtime</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Beranda.png"
                                 data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
-                                title="App 1"><i class="bx bx-plus"></i></a>
+                                title="Dashboard"><i class="bx bx-plus"></i></a>
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
                         </div>
@@ -367,6 +377,21 @@
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-img"><img
+                                src="{{ asset('/') }}source_Arsha/assets/img/portfolio/asset_management/Barcode.png"
+                                class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <h4>Web Asset Management</h4>
+                            <p>Web Asset Management</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/asset_management/Barcode.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Web 2"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-img"><img
                                 src="{{ asset('/') }}source_Arsha/assets/img/portfolio/portfolio-2.jpg"
                                 class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
@@ -380,20 +405,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img
-                                src="{{ asset('/') }}source_Arsha/assets/img/portfolio/asset_management/Barcode.png"
-                                class="img-fluid" alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Web Asset Management</h4>
-                            <p>Web Asset Management</p>
-                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/asset_management/Barcode.png"
-                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
-                                title="Web 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
-                        </div>
-                    </div>
+
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-img"><img
@@ -522,6 +534,101 @@
                         </div>
                     </div>
                     <!-- END certification DATA ANALYTIC with SQL-->
+
+
+                    <!-- certification One Day Security Awareness-->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                        <div class="portfolio-img">
+                            <img src="{{ asset('/') }}source_Arsha/assets/img/certification/One Day Security Awareness.jpg"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>Seminar Teknologi</h4>
+                            <p>One Day Security Awareness</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/certification/One Day Security Awareness.jpg"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="One Day Security Awareness"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- END certification One Day Security Awareness-->
+
+
+                    <!-- certification Panitia Inagurasi 2016-->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                        <div class="portfolio-img">
+                            <img src="{{ asset('/') }}source_Arsha/assets/img/certification/Panitia Inagurasi 2016.jpg"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>Penyambutan Mahasiswa Baru 2016</h4>
+                            <p>Panitia Inagurasi 2016</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/certification/Panitia Inagurasi 2016.jpg"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Panitia Inagurasi 2016"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- END certification One Day Security Awareness-->
+
+
+                    <!-- certification Workshop Cinematography-->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                        <div class="portfolio-img">
+                            <img src="{{ asset('/') }}source_Arsha/assets/img/certification/Workshop Cinematography.jpg"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>Workshop Cinematography</h4>
+                            <p>Workshop Cinematography</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/certification/Workshop Cinematography.jpg"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Workshop Cinematography"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- END certification One Day Security Awareness-->
+
+
+                    <!-- certification Parklaring GSI-->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                        <div class="portfolio-img">
+                            <img src="{{ asset('/') }}source_Arsha/assets/img/certification/Parklaring GSI.jpg"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>Parklaring GSI</h4>
+                            <p>Parklaring</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/certification/Parklaring GSI.jpg"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Parklaring GSI"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- END certification One Day Security Awareness-->
+
+
+                    <!-- certification SK MAGANG-->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                        <div class="portfolio-img">
+                            <img src="{{ asset('/') }}source_Arsha/assets/img/certification/SK MAGANG.jpg"
+                                class="img-fluid" alt="">
+                        </div>
+                        <div class="portfolio-info">
+                            <h4>SK MAGANG</h4>
+                            <p>Surat Keterangan</p>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/certification/SK MAGANG.jpg"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="SK MAGANG"><i class="bx bx-plus"></i></a>
+                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a>
+                        </div>
+                    </div>
+                    <!-- END certification One Day Security Awareness-->
 
                     <!-- END CERTIFICATION -->
 
