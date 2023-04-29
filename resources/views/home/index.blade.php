@@ -313,8 +313,23 @@
                             <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Beranda.png"
                                 data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
                                 title="Dashboard"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Login.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Login"></a>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Master User.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Master User"></a>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Master Department.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Master Department"></a>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Transaksi.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Transaksi"></a>
+                            <a href="{{ asset('/') }}source_Arsha/assets/img/portfolio/sistem_overtime/Laporan.png"
+                                data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                                title="Laporan"></a>
+                            {{-- <a href="portfolio-details.html" class="details-link" title="More Details"><i
+                                    class="bx bx-link"></i></a> --}}
                         </div>
                     </div>
 
@@ -354,7 +369,7 @@
 
                     <!-- WEBSITE -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-img"><img
                                 src="{{ asset('/') }}source_Arsha/assets/img/portfolio/asset_management/Barcode.png"
                                 class="img-fluid" alt=""></div>
@@ -367,7 +382,7 @@
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
                         </div>
-                    </div>
+                    </div> --}}
 
                     {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-img"><img
