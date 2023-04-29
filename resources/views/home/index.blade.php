@@ -57,23 +57,42 @@
                     <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li> -->
+                    <li class="dropdown"><a href="#"><span>Template</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li class="dropdown"><a href="#"><span>Website</span> <i
+                                        class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li class="dropdown"><a href="#"><span>Template Admin</span> <i
+                                                class="bi bi-chevron-right"></i></a>
+                                        <ul>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_AceAdmin(v1.4)"
+                                                    target="_blank">Ace Admin (v1.4)</a>
+                                            </li>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_Dompet"
+                                                    target="_blank">Dompet</a>
+                                            </li>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_FocusAdmin"
+                                                    target="_blank">Focus Admin</a>
+                                            </li>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_Muzik"
+                                                    target="_blank">Muzik</a>
+                                            </li>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_PickAdmin"
+                                                    target="_blank">Pick Admin</a>
+                                            </li>
+                                            <li><a href="https://pradana-live.com/template/website/Admin_Skodash"
+                                                    target="_blank">Skodash</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    {{-- <li><a href="#">Deep Drop Down 2</a></li> --}}
+                                </ul>
+                            </li>
+                            <li><a href="#">Drop Down 2</a></li>
+                            <li><a href="#">Drop Down 3</a></li>
+                            <li><a href="#">Drop Down 4</a></li>
+                        </ul>
+                    </li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                     <li><a class="getstarted scrollto" href="{{ url('login') }}">Login</a></li>
                     <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
