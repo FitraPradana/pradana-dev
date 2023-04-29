@@ -295,7 +295,7 @@
                     <li data-filter="*" class="filter-active">All</li>
                     <li data-filter=".filter-web">Web</li>
                     <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
+                    {{-- <li data-filter=".filter-card">Card</li> --}}
                     <li data-filter=".filter-certification">Certification</li>
                 </ul>
 
