@@ -55,8 +55,6 @@
                     {{-- <li><a class="nav-link scrollto" href="#team">Team</a></li> --}}
                     <li><a class="nav-link scrollto" href="#cv">Curiculum Vitae</a></li>
                     <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Services</a></li>
                     <li class="dropdown"><a href="#"><span>Template</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li class="dropdown"><a href="#"><span>Website</span> <i
@@ -85,6 +83,22 @@
                                             </li>
                                         </ul>
                                     </li>
+                                    <li class="dropdown"><a href="#"><span>E-Commerce</span> <i
+                                                class="bi bi-chevron-right"></i></a>
+                                        <ul>
+                                            <li><a href="https://pradana-live.com/template/website/Ecommerce_DreamPos"
+                                                    target="_blank">Dream Pos</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#"><span>School Management</span> <i
+                                                class="bi bi-chevron-right"></i></a>
+                                        <ul>
+                                            <li><a href="https://pradana-live.com/template/website/SchoolManagementAdmin_PreSchoolV1"
+                                                    target="_blank">Pre School v1</a></li>
+                                            <li><a href="https://pradana-live.com/template/website/SchoolManagementAdmin_PreSchoolV2"
+                                                    target="_blank">Pre School v2</a></li>
+                                        </ul>
+                                    </li>
                                     {{-- <li><a href="#">Deep Drop Down 2</a></li> --}}
                                 </ul>
                             </li>
@@ -93,8 +107,14 @@
                             <li><a href="#">Drop Down 4</a></li> --}}
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="getstarted scrollto" href="{{ url('login') }}">Login</a></li>
+                    <li class="dropdown"><a href="#"><span>Pages</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a class="nav-link scrollto" href="#about">About</a></li>
+                            <li><a class="nav-link scrollto" href="#services">Services</a></li>
+                            <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                        </ul>
+                    </li>
+                    {{-- <li><a class="getstarted scrollto" href="{{ url('login') }}">Login</a></li> --}}
                     <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
