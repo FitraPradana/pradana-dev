@@ -705,26 +705,65 @@
                 <div class="row content">
                     <div class="col-lg-6">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore
-                            magna aliqua.
+                            At PRADANA DEV, we are a team of dedicated IT programmers who are passionate about creating
+                            innovative and efficient software solutions for businesses and organizations. We believe
+                            that technology can transform the way businesses operate and we strive to help our clients
+                            achieve their goals through our services.
+                            <br><br>
+                            Our team is comprised of experienced IT programmers who have expertise in a wide range of
+                            programming languages and technologies. We take pride in our ability to stay up-to-date with
+                            the latest industry trends and advancements, allowing us to provide our clients with the
+                            most cutting-edge and effective solutions.
+                            <br><br>
+                            We are committed to providing our clients with exceptional service and support throughout
+                            every stage of the software development process. We work closely with our clients to
+                            understand their needs and goals, and we use this information to create customized software
+                            solutions that meet their specific requirements.
+                            <br><br>
+                            At PRADANA DEV, we believe in transparency, accountability, and communication. We keep our
+                            clients informed throughout the development process, providing regular updates and progress
+                            reports to ensure that their projects are completed on time and on budget.
+                            <br><br>
+                            Our mission is to help our clients achieve success through technology, and we are dedicated
+                            to providing the highest quality software solutions and services. If you are looking for a
+                            reliable and experienced IT programmer, look no further than PRADANA DEV. Contact us today
+                            to learn more about our services and how we can help your business succeed.
                         </p>
-                        <ul>
+                        {{-- <ul>
                             <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                                 consequat</li>
                             <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in
                                 voluptate velit</li>
                             <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                                 consequat</li>
-                        </ul>
+                        </ul> --}}
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                            reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                            proident, sunt in
-                            culpa qui officia deserunt mollit anim id est laborum.
+                            Di PRADANA DEV, kami adalah tim pemrogram TI berdedikasi yang bersemangat menciptakan solusi
+                            perangkat lunak yang inovatif dan efisien untuk bisnis dan organisasi. Kami percaya bahwa
+                            teknologi dapat mengubah cara bisnis beroperasi dan kami berusaha untuk membantu klien kami
+                            mencapai tujuan mereka melalui layanan kami.
+                            <br><br>
+                            Tim kami terdiri dari pemrogram TI berpengalaman yang memiliki keahlian dalam berbagai
+                            bahasa dan teknologi pemrograman. Kami bangga dengan kemampuan kami untuk tetap up-to-date
+                            dengan tren dan kemajuan industri terbaru, memungkinkan kami untuk menyediakan klien kami
+                            dengan solusi paling mutakhir dan efektif.
+                            <br><br>
+                            Kami berkomitmen untuk menyediakan klien kami dengan layanan dan dukungan yang luar biasa di
+                            setiap tahap proses pengembangan perangkat lunak. Kami bekerja sama dengan klien kami untuk
+                            memahami kebutuhan dan tujuan mereka, dan kami menggunakan informasi ini untuk membuat
+                            solusi perangkat lunak khusus yang memenuhi kebutuhan khusus mereka.
+                            <br><br>
+                            Di PRADANA DEV, kami percaya pada transparansi, akuntabilitas, dan komunikasi. Kami terus
+                            memberi tahu klien kami selama proses pengembangan, memberikan pembaruan rutin dan laporan
+                            kemajuan untuk memastikan bahwa proyek mereka selesai tepat waktu dan sesuai anggaran.
+                            <br><br>
+                            Misi kami adalah membantu klien kami mencapai kesuksesan melalui teknologi, dan kami
+                            berdedikasi untuk menyediakan solusi dan layanan perangkat lunak dengan kualitas terbaik.
+                            Jika Anda mencari pemrogram TI yang andal dan berpengalaman, tidak perlu mencari jauh-jauh
+                            dari PRADANA DEV. Hubungi kami hari ini untuk mempelajari lebih lanjut tentang layanan kami
+                            dan bagaimana kami dapat membantu kesuksesan bisnis Anda.
                         </p>
                         <a href="#" class="btn-learn-more">Learn More</a>
                     </div>
@@ -745,57 +784,77 @@
                         class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                         <div class="content">
-                            <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                            {{-- <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                 incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                            </p>
+                            </p> --}}
                         </div>
 
                         <div class="accordion-list">
                             <ul>
                                 <li>
                                     <a data-bs-toggle="collapse" class="collapse"
-                                        data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam
-                                        at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i
+                                        data-bs-target="#accordion-list-1"><span>01</span> Technology-based Solutions
+                                        <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-1" class="collapse show"
                                         data-bs-parent=".accordion-list">
                                         <p>
-                                            Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus
-                                            laoreet non curabitur gravida. Venenatis lectus magna fringilla urna
-                                            porttitor rhoncus dolor purus non.
+                                            We provide technology-based solutions that provide innovative and creative
+                                            solutions to solve business problems in companies.
                                         </p>
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2"
-                                        class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc?
+                                        class="collapsed"><span>02</span> Meeting Your Needs
                                         <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                                         <p>
-                                            Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id
-                                            interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus
-                                            scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper
-                                            dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                                            We provide technology solutions that can meet your business needs, with
+                                            experience and expertise in various technology fields.
                                         </p>
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3"
-                                        class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit?
+                                        class="collapsed"><span>03</span> Focus on Quality
                                         <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                                         <p>
-                                            Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci.
-                                            Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet
-                                            nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis
-                                            convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio
-                                            morbi quis
+                                            We focus on the quality of the services and technology solutions we provide,
+                                            using the latest and best technology to ensure customer satisfaction.
+                                        </p>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4"
+                                        class="collapsed"><span>04</span> Professional Team
+                                        <i class="bx bx-chevron-down icon-show"></i><i
+                                            class="bx bx-chevron-up icon-close"></i></a>
+                                    <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                                        <p>
+                                            We have a professional and skilled team in the technology field, ready to
+                                            help you solve business problems and improve your business performance.
+                                        </p>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <a data-bs-toggle="collapse" data-bs-target="#accordion-list-5"
+                                        class="collapsed"><span>05</span> Supporting Your Business Growth
+                                        <i class="bx bx-chevron-down icon-show"></i><i
+                                            class="bx bx-chevron-up icon-close"></i></a>
+                                    <div id="accordion-list-5" class="collapse" data-bs-parent=".accordion-list">
+                                        <p>
+                                            We are ready to support your business growth through innovative and creative
+                                            technology solutions, as well as high-quality customer service.
                                         </p>
                                     </div>
                                 </li>
@@ -1159,7 +1218,7 @@
                             Kota Bekasi, Jawa Barat 17131<br>
                             Indonesia <br><br>
                             <strong>Phone:</strong> +62 812 8539 2048<br>
-                            <strong>Phone:</strong> +62 812 9812 9915<br>
+                            <strong>Whatsapp:</strong> +62 812 9812 9915<br>
                             <strong>Email:</strong> pradanafitrah45@gmail.com<br>
                         </p>
                     </div>
