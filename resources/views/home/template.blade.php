@@ -40,10 +40,34 @@
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Contact Us"></a>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_courier-v1.0.0/6. Find us.png"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Find Us"></a>
-                    <a href="#" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                    <a href="https://pradana-live.com/template/website/WEB_courier-v1.0.0/public" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
             {{-- END Courier --}}
+
+            {{-- Feane --}}
+            <div class="col-lg-4 col-md-6 portfolio-item filter-profile">
+                <div class="portfolio-img"><img
+                        src="{{ asset('/') }}source_Arsha/assets/img/template/WEB_feane-1.0.0/1. Home.png"
+                        class="img-fluid" alt=""></div>
+                <div class="portfolio-info">
+                    <h4>Home</h4>
+                    <p>Web feane</p>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_feane-1.0.0/1. Home.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Home"><i
+                            class="bx bx-plus"></i></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_feane-1.0.0/2. Menu.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Menu"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_feane-1.0.0/3. About.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="About"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_feane-1.0.0/4. Book Table.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Book Table"></a>
+                    <a href="https://pradana-live.com/template/website/WEB_feane-1.0.0" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+            </div>
+            {{-- END Feane --}}
 
             {{-- Finance and Business --}}
             <div class="col-lg-4 col-md-6 portfolio-item filter-profile">
@@ -56,11 +80,63 @@
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_finance-business-1.0.0/1. Home.png"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Home"><i
                             class="bx bx-plus"></i></a>
-                    {{-- <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                            class="bx bx-link"></i></a> --}}
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_finance-business-1.0.0/2. About Us.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="About Us"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_finance-business-1.0.0/3. Our Team Member.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Our Team Member"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_finance-business-1.0.0/4. Our Services.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Our Services"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_finance-business-1.0.0/5. Contact Us.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Contact Us"></a>
+                    <a href="https://pradana-live.com/template/website/WEB_finance-business-1.0.0" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
             {{-- END Finance and Business --}}
+
+            {{-- Restoran --}}
+            <div class="col-lg-4 col-md-6 portfolio-item filter-profile">
+                <div class="portfolio-img"><img
+                        src="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/1. Home.png"
+                        class="img-fluid" alt=""></div>
+                <div class="portfolio-info">
+                    <h4>Home</h4>
+                    <p>Web Restoran</p>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/1. Home.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Home"><i
+                            class="bx bx-plus"></i></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/2. About Us.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="About Us"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/3. Services.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Services"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/4. Menu.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Menu"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/5. Booking Table.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Booking Table"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/6. Our Team Members.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Our Team Members"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/7. Testimonial.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Testimonial"></a>
+                    <a href="{{ asset('/') }}source_Arsha/assets/img/template/WEB_restoran-1.0.0/8. Contact Us.png"
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Contact Us"></a>
+                    <a href="https://pradana-live.com/template/website/WEB_restoran-1.0.0" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+            </div>
+            {{-- END Restoran --}}
+
+
+
+
+
+
 
             {{-- ADMIN Dashboard --}}
             <div class="col-lg-4 col-md-6 portfolio-item filter-admin">
@@ -70,22 +146,24 @@
                         src="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Login.png"
                         class="img-fluid" alt=""></div>
                 <div class="portfolio-info">
-                    <h4>Barcode</h4>
-                    <p>Web Asset Management</p>
+                    <h4>Login</h4>
+                    <p>Web Ace Admin Template</p>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Login.png"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Login"><i
                             class="bx bx-plus"></i></a>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Dashboard.jpeg"
-                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Dashboard"></a>
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="Dashboard"></a>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Galery.jpg"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Galery"></a>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Pricing Table.jpg"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
                         title="Pricing Table"></a>
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/UI Element.jpg"
-                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="UI Element"></a>
-                    <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                            class="bx bx-link"></i></a>
+                        data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
+                        title="UI Element"></a>
+                    <a href="https://pradana-live.com/template/website/Admin_AceAdmin(v1.4)" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
 
@@ -106,8 +184,8 @@
                     <a href="{{ asset('/') }}source_Arsha/assets/img/template/Project E-Commerce Dream Pos/Customer List.png"
                         data-gallery="portfolioGallery" class="portfolio-lightbox preview-link"
                         title="Customer List"></a>
-                    {{-- <a href="portfolio-details.html" class="details-link" title="More Details"><i
-                                    class="bx bx-link"></i></a> --}}
+                    <a href="https://pradana-live.com/template/website/Ecommerce_DreamPos" target="_blank"
+                        class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
             </div>
 

@@ -148,6 +148,8 @@
                             <ul>
                                 <li><a href="https://pradana-live.com/template/website/WEB_restoran-1.0.0"
                                         target="_blank">Restoran-1.0.0</a></li>
+                                <li><a href="https://pradana-live.com/template/website/WEB_feane-1.0.0"
+                                        target="_blank">Feane-1.0.0</a></li>
                             </ul>
                         </li>
                         <li class="dropdown"><a href="#"><span>Admin Dashboard</span> <i
