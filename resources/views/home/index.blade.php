@@ -650,7 +650,7 @@
 
 
                     <!-- certification Parklaring GSI-->
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
+                    {{-- <div class="col-lg-4 col-md-6 portfolio-item filter-certification">
                         <div class="portfolio-img">
                             <img src="{{ asset('/') }}source_Arsha/assets/img/certification/Parklaring GSI.jpg"
                                 class="img-fluid" alt="">
@@ -664,7 +664,7 @@
                             <a href="portfolio-details.html" class="details-link" title="More Details"><i
                                     class="bx bx-link"></i></a>
                         </div>
-                    </div>
+                    </div> --}}
                     <!-- END certification One Day Security Awareness-->
 
 
