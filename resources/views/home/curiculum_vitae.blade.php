@@ -7,12 +7,12 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-12 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                <img src="{{ asset('/') }}source_Arsha/assets/img/cv1.jpg" class="img-fluid"
+            {{-- <div class="col-lg-12 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+                <img src="{{ asset('/') }}source_Arsha/assets/img/cv/cv1.jpg" class="img-fluid"
                     alt=""><br><br><br>
-            </div>
+            </div> --}}
             <div class="col-lg-12 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                <img src="{{ asset('/') }}source_Arsha/assets/img/cv2.jpg" class="img-fluid" alt="">
+                <img src="{{ asset('/') }}source_Arsha/assets/img/cv/cv3.png" class="img-fluid" alt="">
             </div>
         </div>
 

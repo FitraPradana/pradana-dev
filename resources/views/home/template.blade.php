@@ -132,18 +132,12 @@
             </div>
             {{-- END Restoran --}}
 
-
-
-
-
-
-
             {{-- ADMIN Dashboard --}}
             <div class="col-lg-4 col-md-6 portfolio-item filter-admin">
 
                 {{-- ACE ADMIN --}}
                 <div class="portfolio-img"><img
-                        src="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Login.png"
+                        src="{{ asset('/') }}source_Arsha/assets/img/template/@BOOTSTRAP 3/Admin_AceAdmin(v1.4)/Dashboard.jpeg"
                         class="img-fluid" alt=""></div>
                 <div class="portfolio-info">
                     <h4>Login</h4>
@@ -170,7 +164,7 @@
             {{-- PROJECT --}}
             <div class="col-lg-4 col-md-6 portfolio-item filter-project">
                 <div class="portfolio-img"><img
-                        src="{{ asset('/') }}source_Arsha/assets/img/template/Project E-Commerce Dream Pos/Login.png"
+                        src="{{ asset('/') }}source_Arsha/assets/img/template/Project E-Commerce Dream Pos/Dashboard.png"
                         class="img-fluid" alt=""></div>
                 <div class="portfolio-info">
                     <h4>Login</h4>

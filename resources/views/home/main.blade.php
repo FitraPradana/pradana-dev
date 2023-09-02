@@ -99,7 +99,7 @@
         <!-- End CV Section -->
 
         <!-- ======= Portfolio Section ======= -->
-        @include('home.portofolio')
+        {{-- @include('home.portofolio_2') --}}
         <!-- End Portfolio Section -->
 
         <!-- ======= About Us Section ======= -->
@@ -111,11 +111,11 @@
         <!-- End Why Us Section -->
 
         <!-- ======= Services Section ======= -->
-        @include('home.services')
+        {{-- @include('home.services') --}}
         <!-- End Services Section -->
 
         <!-- ======= Cta Section ======= -->
-        @include('home.calltoaction')
+        {{-- @include('home.calltoaction') --}}
         <!-- End Cta Section -->
 
         <!-- ======= Pricing Section ======= -->
